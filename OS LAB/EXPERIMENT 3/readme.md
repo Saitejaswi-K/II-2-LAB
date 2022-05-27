@@ -1,1 +1,1 @@
-Write a C program to implement Priority scheduling.
+Priority scheduling.
