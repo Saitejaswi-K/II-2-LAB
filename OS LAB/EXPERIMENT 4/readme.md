@@ -1,1 +1,1 @@
-Write a C program to implement Round robin scheduling.
+Round robin scheduling.
