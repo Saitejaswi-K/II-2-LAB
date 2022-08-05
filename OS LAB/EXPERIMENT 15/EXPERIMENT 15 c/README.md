@@ -1,0 +1,1 @@
+LFU - Least frequently used.
