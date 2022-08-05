@@ -1,0 +1,1 @@
+Sequential file allocation strategy.
